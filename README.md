@@ -6,5 +6,5 @@ This repository contains all the notes taken by [Omotunde](https://github.com/oa
 
 ## Table of Contents
 
-- Week 1
-  - Day 1
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
